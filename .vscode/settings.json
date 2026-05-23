@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 12344,
+            "driver": "PostgreSQL",
+            "name": "my-postgres",
+            "database": "demodb",
+            "username": "postgres",
+            "password": "foysal"
+        }
+    ]
+}
